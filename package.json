@@ -1,0 +1,22 @@
+{
+  "name": "service-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iterare": "^1.1.2",
+    "object-hash": "^1.3.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/register": "^7.4.4"
+  }
+}
